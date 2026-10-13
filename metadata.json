@@ -1,0 +1,6 @@
+{
+  "name": "PropagandaFácil Refrigeração & Comércio",
+  "description": "Gerador com IA de propagandas, spots de áudio e comerciais com fundo sertanejo alegre para serviços de refrigeração e comércio local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
